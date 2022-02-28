@@ -1,3 +1,5 @@
 # stockPricePrediction-timeSeries-
-predicts stock prices and shows the comparison using graphs
-streamlit python library is used for visualisation
+Predicts stock prices and shows the comparison using graphs.
+
+
+Streamlit python library is used for visualisation.
